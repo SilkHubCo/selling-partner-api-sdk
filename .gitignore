@@ -110,5 +110,3 @@ temp/
 
 # End of https://www.gitignore.io/api/node
 
-# TypeScript build output
-lib/
